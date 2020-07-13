@@ -24,10 +24,10 @@ Checkout the repo:
 git clone https://github.com/jeffjirsa/twcs/
 ```
 
-Switch to the right version (for newest 2.1 release, for example):
+Switch to the right version (for newest 3.11 release, for example):
 
 ```
-git checkout origin cassandra-2.1 
+git checkout origin cassandra-3.11 
 ```
 
 Build the jar:
